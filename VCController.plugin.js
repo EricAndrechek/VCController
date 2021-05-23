@@ -20,10 +20,10 @@ module.exports = class VCController {
         this.createServer();
     }
     deafen() {
-        document.querySelector('[aria-label="Deafen"]').click();
+        document.getElementsByClassName("contents-18-Yxp")[1].click();
     }
     mute() {
-        document.querySelector('[aria-label="Mute"]').click();
+        document.getElementsByClassName("contents-18-Yxp")[0].click();
     }
     createServer() {
         const server = http.createServer((req, res) => {
