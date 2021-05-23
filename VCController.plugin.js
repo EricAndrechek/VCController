@@ -5,7 +5,7 @@
  * @version 0.0.1
  * @authorLink https://github.com/EricAndrechek
  * @donate https://paypal.me/AndrechekEric
- * @website https://gist.github.com/EricAndrechek/15e9b9a0713eb3cb6a21e134ad4835e6
+ * @website https://github.com/EricAndrechek/VCController
  * @source https://gist.github.com/EricAndrechek/15e9b9a0713eb3cb6a21e134ad4835e6/raw/b21be12212e6e78952a0045104f947b4706adb5b/VCController.plugin.js
  */
 
